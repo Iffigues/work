@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Test Suite My Test Case 1`] = `<navBar />`;
